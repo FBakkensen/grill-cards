@@ -17,7 +17,7 @@ A Claude Code plugin that turns the rounds of Matt Pocock's grilling skill into 
   ```
 
 - The Claude desktop app (Code tab), where the `show_widget` tool renders the cards. Without it, the grill falls back to its plain text rounds.
-- Optional: the [archify](https://github.com/tt-a1i/archify) skill, for full-page diagrams on questions with many parts.
+- Optional: the [archify](https://github.com/tt-a1i/archify) skill, for the "Draw the big picture" button at the top of each form. A click builds one full-page diagram of how the round's questions connect, in the background; a ★ marks rounds where it is recommended. Without archify, the button is replaced by an install hint.
 
 ## Install
 
