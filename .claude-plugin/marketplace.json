@@ -1,0 +1,14 @@
+{
+  "name": "grill-cards",
+  "description": "Grilling rounds as answer cards for Matt Pocock's grilling skill in Claude Code.",
+  "owner": {
+    "name": "Flemming Bakkensen"
+  },
+  "plugins": [
+    {
+      "name": "grill-cards",
+      "source": "./",
+      "description": "Grilling rounds as answer cards."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build output and TypeScript caches
+dist/
+out/
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Claude Code local state
+.claude/settings.local.json
+.claude/worktrees/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.swp
